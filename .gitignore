@@ -1,0 +1,8 @@
+.vscode/
+logs/*
+shenzhen/*
+montgomery/*
+preprocessed/*
+input*
+*.pyc
+models

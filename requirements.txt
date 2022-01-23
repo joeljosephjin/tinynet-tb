@@ -1,0 +1,6 @@
+tensorflow
+numpy
+scikit-image
+SimpleITK
+imageio
+tensorboard
